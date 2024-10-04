@@ -1,0 +1,136 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+	width:100%;
+	background-color:#f8f9fa;
+}
+.productDescrp::-webkit-scrollbar{
+	display:none;
+}
+
+.headerSection{
+	width:100%;
+	height:55px;
+	background-color:#2874f0;
+	display:flex;
+	position:fixed;
+	top:0;
+}
+.headerSection1{
+	width:100%;
+	height:55px;
+	background-color:#2874f0;
+	display:flex;
+	top:0;
+}
+.logoHeader{
+	width:85px;
+	height:45px;
+	margin-left:20px;
+	margin-top:2px;
+	
+}
+.searchHeader{
+	height:35px;
+	width:40%;
+	background-color:#fff;
+	font-size:14px;
+	font-color:white;
+}
+.searchText1{
+	font-size:14px;
+	font-color:white;
+}
+.searchLog{
+	background-color:#f0f0f0;
+	
+	height:30px;
+}
+.font{
+	font-color:white;
+}
+.searchText{
+	font-size:15px;
+}
+.searchGlass{
+	height:20px;
+	width:20px;
+}
+.text{
+	font-color:#fff;	
+}
+.navText{
+	font-size:13px;
+}
+.contactText{
+	font-weight:400;
+}
+.contactBorder{
+	width:2px;
+	height:25px;
+	border-left:1px solid white;
+	margin-top:17px;
+}
+.secondHeader{
+	border-bottom:1px solid #e4e7ed;	
+}
+.sideNav{
+	background:#fff;
+	height:auto;
+	border:1px solid #e4e7ed;
+	border-bottom:1px solid #f8f9fa;
+	width:265px;
+	margin:10px;
+	background-color:#f8f9fa;
+}
+.fullSection{
+	background:#fff;
+	height:800px;
+	border:1px solid #e4e7ed;
+	width:500px;
+	margin:10px;
+	
+}
+.filter{
+	border-bottom:1px solid #e4e7ed;
+	font-weight:500;
+	font-size:18px;
+}
+.category,.price{
+	border-bottom:1px solid #e4e7ed;
+	font-weight:500;
+	font-size:13px;
+	background-color:#fff;
+}
+.price1{
+	font-weight:500;
+	font-size:13px;
+}
+.element{
+	font-size:14px;
+}
+.b1{
+	height:30px;
+	width:80px;
+	border:1px solid #e4e7ed;
+}
+.b2{
+	height:30px;
+	width:110px;
+	border:1px solid #e4e7ed;	
+}
+.small{
+	border:1px solid #f8f9fa;
+}
+.link{
+	text-decoration:none;
+}
+.text{
+	font-size:12px;
+}
+.boxModel{
+	border-bottom:1px solid #e4e7ed;
+	height:auto;
+	width:100%;
+}
