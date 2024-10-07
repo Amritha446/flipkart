@@ -99,7 +99,7 @@ body{
 }
 .mainSelect{
 	height:560px;
-	width:77%;
+	width:50%;
 
 }
 .iconimg{
@@ -108,6 +108,11 @@ body{
 .block{	
 	height:80px;
 	width:100%;
+}
+.block1{	
+	height:80px;
+	width:100%;
+	position:sticky;
 }
 .b1{
 	background-color:orange;
@@ -315,4 +320,20 @@ body{
 .footerImg1{
 	width:90%;
 	height:30px;
+}
+.boxNew{
+	height:auto;
+	width:100%;
+	border-top:2px solid #e4e7ed;
+	border-bottom:2px solid #e4e7ed;
+}	
+.textt{
+	font-size:11px;
+}
+.textt1{
+	font-size:10px;
+}
+.logo_flip{
+	height:100px;
+	width:100px;
 }		

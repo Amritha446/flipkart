@@ -86,7 +86,7 @@ body{
 }
 .fullSection{
 	background:#fff;
-	height:800px;
+	height:auto;
 	border:1px solid #e4e7ed;
 	width:500px;
 	margin:10px;
@@ -134,3 +134,92 @@ body{
 	height:auto;
 	width:100%;
 }
+.text1{
+	font-weight:500;
+	font-size:17px;
+}
+.text3{
+	font-size:14px;
+	font-weight:500;
+}
+.boxModel2{
+	border-bottom:1px solid #e4e7ed;
+	height:auto;
+	width:100%;
+}
+.rate{
+	font-size:14px;
+}
+.rateBtn{
+	height:20px;
+	width:40px;
+	background-color:green;
+	border-radius:4px;
+	font-height:10px;
+}
+.secondSec{
+	border:1px solid #e4e7ed;
+	height:auto;
+}
+.imgMain{
+	height:200px;
+	width:180px;
+}
+.text5{
+	font-size:10px;
+}
+.footer{
+	height:250px;
+	background-color:#172337;
+	margin-left:4%;
+	margin-top:2%;
+	padding-left:10px;
+}
+.col1{
+	margin-left:10px;
+}
+.col2{
+	margin-left:1rem;
+}	
+.topText{
+	font-weight:600;
+	font-size:12px;
+}
+.textAdress{
+	font-weight:600;
+	font-size:12px;
+	line-spacing:1;
+}
+.borderFooter{
+	height:200px;
+	width:5px;
+	border-left:1px solid #454d5e;
+	margin-top:5px;
+}
+.logimg1{
+	height:25px;
+	width:25px;
+	margin-top:10px;
+}
+.logimg2{
+	height:25px;
+	width:25px;
+	margin-top:10px;
+	margin-left:10px;
+}
+.footer2{
+	height:80px;
+	background-color:#172337;
+	border-top:1px solid #454d5e;
+}
+.footerImg{
+	height:20px;
+	width:20px;
+}
+.element{
+	font-size:14px;
+}
+.footerImg1{
+	width:90%;
+	height:30px;
+}		
