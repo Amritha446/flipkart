@@ -1,0 +1,119 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+	width:100%;
+}
+.headerSection{
+	width:100%;
+	height:55px;
+	background-color:#2874f0;
+	display:flex;
+	position:sticky;
+}
+.logoHeader{
+	width:85px;
+	height:45px;
+	margin-left:20px;
+	margin-top:2px;	
+}
+.searchHeader{
+	height:35px;
+	width:40%;
+	background-color:#fff;
+	font-size:14px;
+	font-color:white;
+	
+}
+.searchText1{
+	font-size:14px;
+	font-color:white;
+}
+.searchLog{
+	background-color:#f0f0f0;
+	
+	height:30px;
+}
+.font{
+	font-color:white;
+}
+.searchText{
+	font-size:15px;
+}
+.searchGlass{
+	height:20px;
+	width:20px;
+}
+.text{
+	font-color:#fff;	
+}
+.mainSection{
+	background-color:#f0f0f0;
+	width:100%;
+	height:500px;
+	margin-top:55px;
+}
+.firstSection{
+	width:65%;
+	height:50px;
+	background-color:#fff;
+	border-radius:3px;
+}
+.secondSection{
+	width:65%;
+	height:auto;
+	background-color:#fff;
+	border-radius:3px;
+}
+.btnn{
+	margin-left:30px;
+}
+.imgSection{
+	width:120px;
+	height:105px;
+}
+.secondText{
+	font-size:16px;
+}
+.secondText1{
+	font-size:14px;
+}
+
+.first{
+	text-decoration:line-through;
+	font-size:14px;
+}
+.second{
+	font-size:18px;
+	font-weight:450;
+}
+.third{
+	font-size:13px;
+}
+.thirdSection{
+	width:90%;
+	height:auto;
+	margin-left:-10px;
+	background-color:#f4f8ff;
+}
+.content{
+	margin-left:-20px;
+}
+.thirdHeading{
+	font-size:15px;
+}
+.thirdImg{
+	height:50px;
+	width:80px;
+}
+.textText{
+	font-size:11px;
+}
+.textPara{
+	font-size:14px;
+}
+.lastSection{
+	width:80%;
+	height:auto;
+	margin-left:-10px;
+}
